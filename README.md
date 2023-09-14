@@ -1,5 +1,5 @@
 # Learning-VisualBasic
-To save the projects I made in Visual Basic for learning purpose. Related to the telecom company ETECSA, which I'm currently working for (Web Scrapping using Visual Basic, processing data, build tables and generate Word documents automatically)
+To save the projects I made in Visual Basic for learning purpose. Related to the telecom company ETECSA, which I'm currently working for (Web Scrapping and Authentication using Visual Basic, processing data, build tables and generate Word documents automatically)
 
 These files go inside a Workbook of Microsoft Excel, the description, comments and variables usually are in spanish.
   There's one who uses the Microsoft Library "Microsoft XML, v6.0", these library contains classes and methods to communicate using methods HTTP, the code authenticate in a web, 
