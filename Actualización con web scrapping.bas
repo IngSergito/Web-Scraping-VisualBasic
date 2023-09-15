@@ -55,7 +55,7 @@ Sub Actualizar_tabla_tickets(rutaArchivoTickets As String, tablaTickets As ListO
     Next hoja
     
     If Not (ticketsEncontrados) Then
-        MsgBox "No se un listado de tickets compatible al formato registrado"
+        MsgBox "No es un listado de tickets compatible al formato registrado"
     Else
         Application.ScreenUpdating = False
         Set nuevosTickets = encabezado.Parent.ListObjects.Add(xlSrcRange, encabezado.CurrentRegion, , xlYes)
